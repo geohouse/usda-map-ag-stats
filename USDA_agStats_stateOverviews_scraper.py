@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 listHolder = []
-states = ["WASHINGTON", "NEW MEXICO"]
+states = ["WASHINGTON", "COLORADO", "NEW MEXICO"]
 URL_base = "https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state="
 
 for state in states:
