@@ -3,11 +3,19 @@ import requests
 from bs4 import BeautifulSoup
 
 listHolder = []
-states = ["WASHINGTON", "COLORADO", "NEW MEXICO"]
-states = ["NEW MEXICO", "MAINE"]
+states = ["ALABAMA", "ALASKA", "ARIZONA", "ARKANSAS", "CALIFORNIA", "COLORADO", \
+        "CONNECTICUT", "DELAWARE", "FLORIDA", "GEORGIA", "HAWAII", "IDAHO", "ILLINOIS", \
+        "INDIANA", "IOWA", "KANSAS", "KENTUCKY", "LOUISIANA", "MAINE", "MARYLAND", \
+        "MASSACHUSETTS", "MICHIGAN", "MINNESOTA", "MISSISSIPPI", "MISSOURI", "MONTANA", \
+        "NEBRASKA", "NEVADA", "NEW HAMPSHIRE", "NEW JERSEY", "NEW MEXICO", "NEW YORK", \
+        "NORTH CAROLINA", "NORTH DAKOTA", "OHIO", "OKLAHOMA", "OREGON", "PENNSYLVANIA", \
+        "RHODE ISLAND", "SOUTH CAROLINA", "SOUTH DAKOTA", "TENNESSEE", "TEXAS", "UTAH", \
+        "VERMONT", "VIRGINIA", "WASHINGTON", "WEST VIRGINIA", "WISCONSIN", "WYOMING"]
+#states = ["NEW MEXICO", "MAINE"]
 URL_base = "https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state="
 
 for state in states:
+    print(state)
     URL_full = URL_base + state
     page = requests.get(URL_full)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -37,7 +45,7 @@ for state in states:
 
 #print(listHolder)
 
-with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results.txt", "w") as outFile:
+with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results_full.txt", "w") as outFile:
     outFile.write("State\tCommodity\tplantedAllPurposeAcres\tharvestedAcres\tcropYield\tproduction\tpricePerUnit\tproductionValueDollars\n")
     for rowDict in listHolder:
         lineHolder = ""
