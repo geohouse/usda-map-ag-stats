@@ -35,22 +35,21 @@ for state in states:
         "pricePerUnit": pricePerUnit,
         "productionValueDollars": productionValueDollars})
 
-print(listHolder)
+#print(listHolder)
 
-for rowDict in listHolder:
-    lineHolder = ""
-    for key in rowDict:
-        #print(key)
-        lineHolder += rowDict[key] + "\t"
-        lineHolder += "\n"
-    
-    print(lineHolder)
-
-
-
-"""
 with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results.txt", "w") as outFile:
-    for entry in listHolder:
-        for line in entry:
-"""            
+    outFile.write("State\tCommodity\tplantedAllPurposeAcres\tharvestedAcres\tcropYield\tproduction\tpricePerUnit\tproductionValueDollars\n")
+    for rowDict in listHolder:
+        lineHolder = ""
+        for key in rowDict:
+            #print(key)
+            lineHolder += rowDict[key].strip() + "\t"
+        lineHolder += "\n"
+        
+        outFile.write(lineHolder)
+
+
+
+
+      
 
