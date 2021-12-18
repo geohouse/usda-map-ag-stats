@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 listHolder = []
 states = ["WASHINGTON", "COLORADO", "NEW MEXICO"]
+states = ["NEW MEXICO", "MAINE"]
 URL_base = "https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state="
 
 for state in states:
@@ -19,8 +20,8 @@ for state in states:
 
     for tableRow in soup.find_all("tr", class_="datarow"):
         commodity = tableRow.find_all('td')[0].text
-        plantedAPAcres = int(removeCommas(tableRow.find_all('td')[1].text))
-        harvestedAcres = int(removeCommas(tableRow.find_all('td')[2].text))
+        plantedAPAcres = removeCommas(tableRow.find_all('td')[1].text)
+        harvestedAcres = removeCommas(tableRow.find_all('td')[2].text)
         cropYield = tableRow.find_all('td')[3].text
         production = tableRow.find_all('td')[4].text
         pricePerUnit = tableRow.find_all('td')[5].text
@@ -34,5 +35,22 @@ for state in states:
         "pricePerUnit": pricePerUnit,
         "productionValueDollars": productionValueDollars})
 
-    print(listHolder)
+print(listHolder)
+
+for rowDict in listHolder:
+    lineHolder = ""
+    for key in rowDict:
+        #print(key)
+        lineHolder += rowDict[key] + "\t"
+        lineHolder += "\n"
+    
+    print(lineHolder)
+
+
+
+"""
+with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results.txt", "w") as outFile:
+    for entry in listHolder:
+        for line in entry:
+"""            
 
