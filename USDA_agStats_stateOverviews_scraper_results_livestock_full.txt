@@ -1,0 +1,657 @@
+state	farmLabel	farmValue
+ALABAMA	Farm Operations - Area Operated, Measured in Acres / Operation	213
+ALABAMA	Farm Operations - Number of Operations	39000
+ALABAMA	Farm Operations - Acres Operated	8300000
+ALABAMA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	697000
+ALABAMA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	3000
+ALABAMA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1290000
+ALABAMA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	47000
+ALABAMA	Goats, Milk - Inventory ( First of Jan. 2021 )	3700
+ALABAMA	Hogs - Inventory ( First of Dec. 2020 )	12000
+ALABAMA	Chickens, Broilers - Production, Measured in Head	1200900000
+ALABAMA	Milk - Production, Measured in Lb / Head	15000
+ALABAMA	Milk - Production, Measured in $	8235000
+ALABAMA	Milk - Production, Measured in Lb	45000000
+ALASKA	Farm Operations - Area Operated, Measured in Acres / Operation	810
+ALASKA	Farm Operations - Number of Operations	1050
+ALASKA	Farm Operations - Acres Operated	850000
+ALASKA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	7300
+ALASKA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	200
+ALASKA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	17000
+ALASKA	Hogs - Inventory ( First of Dec. 2020 )	1900
+ARIZONA	Farm Operations - Area Operated, Measured in Acres / Operation	1379
+ARIZONA	Farm Operations - Number of Operations	19000
+ARIZONA	Farm Operations - Acres Operated	26200000
+ARIZONA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	194000
+ARIZONA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	196000
+ARIZONA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	980000
+ARIZONA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	265000
+ARIZONA	Goats, Angora - Inventory ( First of Jan. 2021 )	21000
+ARIZONA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	32000
+ARIZONA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	110000
+ARIZONA	Hogs - Inventory ( First of Dec. 2020 )	141000
+ARIZONA	Milk - Production, Measured in Lb / Head	24568
+ARIZONA	Milk - Production, Measured in $	792018000
+ARIZONA	Milk - Production, Measured in Lb	4889000000
+ARKANSAS	Farm Operations - Area Operated, Measured in Acres / Operation	332
+ARKANSAS	Farm Operations - Number of Operations	42200
+ARKANSAS	Farm Operations - Acres Operated	14000000
+ARKANSAS	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	925000
+ARKANSAS	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	5000
+ARKANSAS	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1770000
+ARKANSAS	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	31000
+ARKANSAS	Goats, Milk - Inventory ( First of Jan. 2021 )	4000
+ARKANSAS	Hogs - Inventory ( First of Dec. 2020 )	126000
+ARKANSAS	Chickens, Broilers - Production, Measured in Head	1049700000
+ARKANSAS	Turkeys - Production, Measured in Head	31000000
+ARKANSAS	Milk - Production, Measured in Lb / Head	12800
+ARKANSAS	Milk - Production, Measured in $	11456000
+ARKANSAS	Milk - Production, Measured in Lb	64000000
+CALIFORNIA	Farm Operations - Area Operated, Measured in Acres / Operation	349
+CALIFORNIA	Farm Operations - Number of Operations	69600
+CALIFORNIA	Farm Operations - Acres Operated	24300000
+CALIFORNIA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	670000
+CALIFORNIA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	1720000
+CALIFORNIA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	5150000
+CALIFORNIA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	555000
+CALIFORNIA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	82000
+CALIFORNIA	Goats, Milk - Inventory ( First of Jan. 2021 )	41000
+CALIFORNIA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	555000
+CALIFORNIA	Hogs - Inventory ( First of Dec. 2020 )	99000
+CALIFORNIA	Turkeys - Production, Measured in Head	8000000
+CALIFORNIA	Milk, Skim, Unsweetened, Condensed, Bulk - Production, Measured in Plants	10
+CALIFORNIA	Milk, Dry, Nonfat, Human - Production, Measured in Plants	14
+CALIFORNIA	Milk - Production, Measured in Lb / Head	23987
+CALIFORNIA	Milk, Skim, Unsweetened, Condensed, Bulk - Production, Measured in Lb	171370000
+CALIFORNIA	Milk, Dry, Nonfat, Human - Production, Measured in Lb	770545000
+CALIFORNIA	Milk - Production, Measured in $	7472042000
+CALIFORNIA	Milk - Production, Measured in Lb	41282000000
+COLORADO	Farm Operations - Area Operated, Measured in Acres / Operation	820
+COLORADO	Farm Operations - Number of Operations	38800
+COLORADO	Farm Operations - Acres Operated	31800000
+COLORADO	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	659000
+COLORADO	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	201000
+COLORADO	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	2650000
+COLORADO	Cattle, On Feed - Inventory ( First of Jan. 2021 )	1140000
+COLORADO	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	24000
+COLORADO	Goats, Milk - Inventory ( First of Jan. 2021 )	8000
+COLORADO	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	445000
+COLORADO	Hogs - Inventory ( First of Dec. 2020 )	630000
+COLORADO	Milk - Production, Measured in Lb / Head	26142
+COLORADO	Milk - Production, Measured in $	896100000
+COLORADO	Milk - Production, Measured in Lb	5150000000
+CONNECTICUT	Farm Operations - Area Operated, Measured in Acres / Operation	69
+CONNECTICUT	Farm Operations - Number of Operations	5500
+CONNECTICUT	Farm Operations - Acres Operated	380000
+CONNECTICUT	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	5000
+CONNECTICUT	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	19000
+CONNECTICUT	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	47000
+CONNECTICUT	Hogs - Inventory ( First of Dec. 2020 )	4000
+CONNECTICUT	Milk - Production, Measured in Lb / Head	23053
+CONNECTICUT	Milk - Production, Measured in $	78840000
+CONNECTICUT	Milk - Production, Measured in Lb	438000000
+DELAWARE	Farm Operations - Area Operated, Measured in Acres / Operation	230
+DELAWARE	Farm Operations - Number of Operations	2300
+DELAWARE	Farm Operations - Acres Operated	530000
+DELAWARE	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	1800
+DELAWARE	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	3700
+DELAWARE	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	13000
+DELAWARE	Hogs - Inventory ( First of Dec. 2020 )	7000
+DELAWARE	Chickens, Broilers - Production, Measured in Head	250500000
+DELAWARE	Milk - Production, Measured in Lb / Head	18553
+DELAWARE	Milk - Production, Measured in $	12056000
+DELAWARE	Milk - Production, Measured in Lb	70500000
+FLORIDA	Farm Operations - Area Operated, Measured in Acres / Operation	204
+FLORIDA	Farm Operations - Number of Operations	47500
+FLORIDA	Farm Operations - Acres Operated	9700000
+FLORIDA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	929000
+FLORIDA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	111000
+FLORIDA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1690000
+FLORIDA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	47000
+FLORIDA	Goats, Milk - Inventory ( First of Jan. 2021 )	9000
+FLORIDA	Hogs - Inventory ( First of Dec. 2020 )	13000
+FLORIDA	Chickens, Broilers - Production, Measured in Head	65200000
+FLORIDA	Milk - Production, Measured in Lb / Head	20257
+FLORIDA	Milk - Production, Measured in $	487557000
+FLORIDA	Milk - Production, Measured in Lb	2289000000
+GEORGIA	Farm Operations - Area Operated, Measured in Acres / Operation	246
+GEORGIA	Farm Operations - Number of Operations	41400
+GEORGIA	Farm Operations - Acres Operated	10200000
+GEORGIA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	509000
+GEORGIA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	81000
+GEORGIA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1090000
+GEORGIA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	59000
+GEORGIA	Goats, Milk - Inventory ( First of Jan. 2021 )	6500
+GEORGIA	Hogs - Inventory ( First of Dec. 2020 )	38000
+GEORGIA	Chickens, Broilers - Production, Measured in Head	1325100000
+GEORGIA	Milk - Production, Measured in Lb / Head	21877
+GEORGIA	Milk - Production, Measured in $	350856000
+GEORGIA	Milk - Production, Measured in Lb	1772000000
+HAWAII	Farm Operations - Area Operated, Measured in Acres / Operation	151
+HAWAII	Farm Operations - Number of Operations	7300
+HAWAII	Farm Operations - Acres Operated	1100000
+HAWAII	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	76400
+HAWAII	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	600
+HAWAII	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	142000
+HAWAII	Hogs - Inventory ( First of Dec. 2020 )	10000
+IDAHO	Farm Operations - Area Operated, Measured in Acres / Operation	467
+IDAHO	Farm Operations - Number of Operations	24600
+IDAHO	Farm Operations - Acres Operated	11500000
+IDAHO	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	474000
+IDAHO	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	646000
+IDAHO	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	2500000
+IDAHO	Cattle, On Feed - Inventory ( First of Jan. 2021 )	300000
+IDAHO	Goats, Milk - Inventory ( First of Jan. 2021 )	7200
+IDAHO	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	230000
+IDAHO	Hogs - Inventory ( First of Dec. 2020 )	32000
+IDAHO	Milk - Production, Measured in Lb / Head	25180
+IDAHO	Milk - Production, Measured in $	2988344000
+IDAHO	Milk - Production, Measured in Lb	16241000000
+ILLINOIS	Farm Operations - Area Operated, Measured in Acres / Operation	380
+ILLINOIS	Farm Operations - Number of Operations	71100
+ILLINOIS	Farm Operations - Acres Operated	27000000
+ILLINOIS	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	356000
+ILLINOIS	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	84000
+ILLINOIS	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1050000
+ILLINOIS	Cattle, On Feed - Inventory ( First of Jan. 2021 )	230000
+ILLINOIS	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	25000
+ILLINOIS	Goats, Milk - Inventory ( First of Jan. 2021 )	9500
+ILLINOIS	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	53000
+ILLINOIS	Hogs - Inventory ( First of Dec. 2020 )	5400000
+ILLINOIS	Milk - Production, Measured in Lb / Head	21530
+ILLINOIS	Milk - Production, Measured in $	319873000
+ILLINOIS	Milk - Production, Measured in Lb	1787000000
+INDIANA	Farm Operations - Area Operated, Measured in Acres / Operation	267
+INDIANA	Farm Operations - Number of Operations	55500
+INDIANA	Farm Operations - Acres Operated	14800000
+INDIANA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	194000
+INDIANA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	191000
+INDIANA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	850000
+INDIANA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	115000
+INDIANA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	38000
+INDIANA	Goats, Milk - Inventory ( First of Jan. 2021 )	14000
+INDIANA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	60000
+INDIANA	Hogs - Inventory ( First of Dec. 2020 )	4450000
+INDIANA	Turkeys - Production, Measured in Head	20000000
+INDIANA	Milk - Production, Measured in Lb / Head	23661
+INDIANA	Milk - Production, Measured in $	753420000
+INDIANA	Milk - Production, Measured in Lb	4330000000
+IOWA	Farm Operations - Area Operated, Measured in Acres / Operation	360
+IOWA	Farm Operations - Number of Operations	85000
+IOWA	Farm Operations - Acres Operated	30600000
+IOWA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	890000
+IOWA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	220000
+IOWA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	3650000
+IOWA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	1170000
+IOWA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	38000
+IOWA	Goats, Milk - Inventory ( First of Jan. 2021 )	27000
+IOWA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	160000
+IOWA	Hogs - Inventory ( First of Dec. 2020 )	24500000
+IOWA	Turkeys - Production, Measured in Head	11700000
+IOWA	Milk - Production, Measured in Lb / Head	24651
+IOWA	Milk - Production, Measured in $	1047930000
+IOWA	Milk - Production, Measured in Lb	5374000000
+KANSAS	Farm Operations - Area Operated, Measured in Acres / Operation	784
+KANSAS	Farm Operations - Number of Operations	58300
+KANSAS	Farm Operations - Acres Operated	45700000
+KANSAS	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	1477000
+KANSAS	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	173000
+KANSAS	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	6500000
+KANSAS	Cattle, On Feed - Inventory ( First of Jan. 2021 )	2660000
+KANSAS	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	40000
+KANSAS	Goats, Milk - Inventory ( First of Jan. 2021 )	4000
+KANSAS	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	70000
+KANSAS	Hogs - Inventory ( First of Dec. 2020 )	2060000
+KANSAS	Milk - Production, Measured in Lb / Head	23694
+KANSAS	Milk - Production, Measured in $	688788000
+KANSAS	Milk - Production, Measured in Lb	4028000000
+KENTUCKY	Farm Operations - Area Operated, Measured in Acres / Operation	173
+KENTUCKY	Farm Operations - Number of Operations	74500
+KENTUCKY	Farm Operations - Acres Operated	12900000
+KENTUCKY	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	983000
+KENTUCKY	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	47000
+KENTUCKY	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	2090000
+KENTUCKY	Cattle, On Feed - Inventory ( First of Jan. 2021 )	19000
+KENTUCKY	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	53000
+KENTUCKY	Goats, Milk - Inventory ( First of Jan. 2021 )	6000
+KENTUCKY	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	58000
+KENTUCKY	Hogs - Inventory ( First of Dec. 2020 )	460000
+KENTUCKY	Chickens, Broilers - Production, Measured in Head	299000000
+KENTUCKY	Milk - Production, Measured in Lb / Head	19542
+KENTUCKY	Milk - Production, Measured in $	175406000
+KENTUCKY	Milk - Production, Measured in Lb	938000000
+LOUISIANA	Farm Operations - Area Operated, Measured in Acres / Operation	292
+LOUISIANA	Farm Operations - Number of Operations	27400
+LOUISIANA	Farm Operations - Acres Operated	8000000
+LOUISIANA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	445000
+LOUISIANA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	10000
+LOUISIANA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	775000
+LOUISIANA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	15000
+LOUISIANA	Hogs - Inventory ( First of Dec. 2020 )	6000
+LOUISIANA	Milk - Production, Measured in Lb / Head	13400
+LOUISIANA	Milk - Production, Measured in $	24924000
+LOUISIANA	Milk - Production, Measured in Lb	134000000
+MAINE	Farm Operations - Area Operated, Measured in Acres / Operation	171
+MAINE	Farm Operations - Number of Operations	7600
+MAINE	Farm Operations - Acres Operated	1300000
+MAINE	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	10000
+MAINE	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	27000
+MAINE	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	76000
+MAINE	Hogs - Inventory ( First of Dec. 2020 )	5000
+MAINE	Milk - Production, Measured in Lb / Head	21963
+MAINE	Milk - Production, Measured in $	115042000
+MAINE	Milk - Production, Measured in Lb	593000000
+MARYLAND	Farm Operations - Area Operated, Measured in Acres / Operation	161
+MARYLAND	Farm Operations - Number of Operations	12400
+MARYLAND	Farm Operations - Acres Operated	2000000
+MARYLAND	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	45000
+MARYLAND	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	43000
+MARYLAND	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	177000
+MARYLAND	Cattle, On Feed - Inventory ( First of Jan. 2021 )	7000
+MARYLAND	Hogs - Inventory ( First of Dec. 2020 )	18500
+MARYLAND	Chickens, Broilers - Production, Measured in Head	287300000
+MARYLAND	Milk - Production, Measured in Lb / Head	20905
+MARYLAND	Milk - Production, Measured in $	151894000
+MARYLAND	Milk - Production, Measured in Lb	878000000
+MASSACHUSETTS	Farm Operations - Area Operated, Measured in Acres / Operation	69
+MASSACHUSETTS	Farm Operations - Number of Operations	7200
+MASSACHUSETTS	Farm Operations - Acres Operated	500000
+MASSACHUSETTS	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	7000
+MASSACHUSETTS	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	10000
+MASSACHUSETTS	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	37000
+MASSACHUSETTS	Hogs - Inventory ( First of Dec. 2020 )	9000
+MASSACHUSETTS	Milk - Production, Measured in Lb / Head	19900
+MASSACHUSETTS	Milk - Production, Measured in $	36417000
+MASSACHUSETTS	Milk - Production, Measured in Lb	199000000
+MICHIGAN	Farm Operations - Area Operated, Measured in Acres / Operation	211
+MICHIGAN	Farm Operations - Number of Operations	46500
+MICHIGAN	Farm Operations - Acres Operated	9800000
+MICHIGAN	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	100000
+MICHIGAN	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	440000
+MICHIGAN	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1140000
+MICHIGAN	Cattle, On Feed - Inventory ( First of Jan. 2021 )	185000
+MICHIGAN	Goats, Milk - Inventory ( First of Jan. 2021 )	12500
+MICHIGAN	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	87000
+MICHIGAN	Hogs - Inventory ( First of Dec. 2020 )	1300000
+MICHIGAN	Turkeys - Production, Measured in Head	5200000
+MICHIGAN	Milk - Production, Measured in Lb / Head	27170
+MICHIGAN	Milk - Production, Measured in $	1916012000
+MICHIGAN	Milk - Production, Measured in Lb	11683000000
+MINNESOTA	Farm Operations - Area Operated, Measured in Acres / Operation	376
+MINNESOTA	Farm Operations - Number of Operations	67500
+MINNESOTA	Farm Operations - Acres Operated	25400000
+MINNESOTA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	345000
+MINNESOTA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	455000
+MINNESOTA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	2140000
+MINNESOTA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	400000
+MINNESOTA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	26000
+MINNESOTA	Goats, Milk - Inventory ( First of Jan. 2021 )	12000
+MINNESOTA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	113000
+MINNESOTA	Hogs - Inventory ( First of Dec. 2020 )	9300000
+MINNESOTA	Chickens, Broilers - Production, Measured in Head	57800000
+MINNESOTA	Turkeys - Production, Measured in Head	40000000
+MINNESOTA	Milk - Production, Measured in Lb / Head	22705
+MINNESOTA	Milk - Production, Measured in $	2039949000
+MINNESOTA	Milk - Production, Measured in Lb	10149000000
+MISSISSIPPI	Farm Operations - Area Operated, Measured in Acres / Operation	302
+MISSISSIPPI	Farm Operations - Number of Operations	34400
+MISSISSIPPI	Farm Operations - Acres Operated	10400000
+MISSISSIPPI	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	482000
+MISSISSIPPI	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	8000
+MISSISSIPPI	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	920000
+MISSISSIPPI	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	21000
+MISSISSIPPI	Hogs - Inventory ( First of Dec. 2020 )	110000
+MISSISSIPPI	Chickens, Broilers - Production, Measured in Head	732200000
+MISSISSIPPI	Milk - Production, Measured in Lb / Head	16375
+MISSISSIPPI	Milk - Production, Measured in $	25283000
+MISSISSIPPI	Milk - Production, Measured in Lb	131000000
+MISSOURI	Farm Operations - Area Operated, Measured in Acres / Operation	289
+MISSOURI	Farm Operations - Number of Operations	95000
+MISSOURI	Farm Operations - Acres Operated	27500000
+MISSOURI	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	2035000
+MISSOURI	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	75000
+MISSOURI	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	4300000
+MISSOURI	Cattle, On Feed - Inventory ( First of Jan. 2021 )	100000
+MISSOURI	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	75000
+MISSOURI	Goats, Milk - Inventory ( First of Jan. 2021 )	12500
+MISSOURI	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	100000
+MISSOURI	Hogs - Inventory ( First of Dec. 2020 )	3700000
+MISSOURI	Chickens, Broilers - Production, Measured in Head	292100000
+MISSOURI	Turkeys - Production, Measured in Head	17000000
+MISSOURI	Milk - Production, Measured in Lb / Head	14276
+MISSOURI	Milk - Production, Measured in $	194215000
+MISSOURI	Milk - Production, Measured in Lb	1085000000
+MONTANA	Farm Operations - Area Operated, Measured in Acres / Operation	2156
+MONTANA	Farm Operations - Number of Operations	26900
+MONTANA	Farm Operations - Acres Operated	58000000
+MONTANA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	1419000
+MONTANA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	11000
+MONTANA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	2450000
+MONTANA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	53000
+MONTANA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	200000
+MONTANA	Hogs - Inventory ( First of Dec. 2020 )	205000
+MONTANA	Milk - Production, Measured in Lb / Head	21167
+MONTANA	Milk - Production, Measured in $	47244000
+MONTANA	Milk - Production, Measured in Lb	254000000
+NEBRASKA	Farm Operations - Area Operated, Measured in Acres / Operation	987
+NEBRASKA	Farm Operations - Number of Operations	45500
+NEBRASKA	Farm Operations - Acres Operated	44900000
+NEBRASKA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	1900000
+NEBRASKA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	60000
+NEBRASKA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	6850000
+NEBRASKA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	2720000
+NEBRASKA	Goats, Milk - Inventory ( First of Jan. 2021 )	3500
+NEBRASKA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	74000
+NEBRASKA	Hogs - Inventory ( First of Dec. 2020 )	3650000
+NEBRASKA	Milk - Production, Measured in Lb / Head	24746
+NEBRASKA	Milk - Production, Measured in $	265720000
+NEBRASKA	Milk - Production, Measured in Lb	1460000000
+NEVADA	Farm Operations - Area Operated, Measured in Acres / Operation	1821
+NEVADA	Farm Operations - Number of Operations	3350
+NEVADA	Farm Operations - Acres Operated	6100000
+NEVADA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	245000
+NEVADA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	30000
+NEVADA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	470000
+NEVADA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	3000
+NEVADA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	59000
+NEVADA	Hogs - Inventory ( First of Dec. 2020 )	2500
+NEVADA	Milk - Production, Measured in Lb / Head	24677
+NEVADA	Milk - Production, Measured in $	141525000
+NEVADA	Milk - Production, Measured in Lb	765000000
+NEW HAMPSHIRE	Farm Operations - Area Operated, Measured in Acres / Operation	105
+NEW HAMPSHIRE	Farm Operations - Number of Operations	4100
+NEW HAMPSHIRE	Farm Operations - Acres Operated	430000
+NEW HAMPSHIRE	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	4500
+NEW HAMPSHIRE	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	11000
+NEW HAMPSHIRE	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	32000
+NEW HAMPSHIRE	Hogs - Inventory ( First of Dec. 2020 )	3800
+NEW HAMPSHIRE	Milk - Production, Measured in Lb / Head	21273
+NEW HAMPSHIRE	Milk - Production, Measured in $	42120000
+NEW HAMPSHIRE	Milk - Production, Measured in Lb	234000000
+NEW JERSEY	Farm Operations - Area Operated, Measured in Acres / Operation	76
+NEW JERSEY	Farm Operations - Number of Operations	9900
+NEW JERSEY	Farm Operations - Acres Operated	750000
+NEW JERSEY	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	8600
+NEW JERSEY	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	4400
+NEW JERSEY	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	25000
+NEW JERSEY	Hogs - Inventory ( First of Dec. 2020 )	7500
+NEW JERSEY	Milk - Production, Measured in Lb / Head	19800
+NEW JERSEY	Milk - Production, Measured in $	17028000
+NEW JERSEY	Milk - Production, Measured in Lb	99000000
+NEW MEXICO	Farm Operations - Area Operated, Measured in Acres / Operation	1613
+NEW MEXICO	Farm Operations - Number of Operations	24800
+NEW MEXICO	Farm Operations - Acres Operated	40000000
+NEW MEXICO	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	463000
+NEW MEXICO	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	337000
+NEW MEXICO	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1390000
+NEW MEXICO	Goats, Angora - Inventory ( First of Jan. 2021 )	9000
+NEW MEXICO	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	85000
+NEW MEXICO	Hogs - Inventory ( First of Dec. 2020 )	1300
+NEW MEXICO	Milk - Production, Measured in Lb / Head	24755
+NEW MEXICO	Milk - Production, Measured in $	1331547000
+NEW MEXICO	Milk - Production, Measured in Lb	8169000000
+NEW YORK	Farm Operations - Area Operated, Measured in Acres / Operation	207
+NEW YORK	Farm Operations - Number of Operations	33400
+NEW YORK	Farm Operations - Acres Operated	6900000
+NEW YORK	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	95000
+NEW YORK	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	625000
+NEW YORK	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1420000
+NEW YORK	Cattle, On Feed - Inventory ( First of Jan. 2021 )	22000
+NEW YORK	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	18000
+NEW YORK	Goats, Milk - Inventory ( First of Jan. 2021 )	13100
+NEW YORK	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	79000
+NEW YORK	Hogs - Inventory ( First of Dec. 2020 )	69000
+NEW YORK	Milk, Skim, Unsweetened, Condensed, Bulk - Production, Measured in Plants	4
+NEW YORK	Milk - Production, Measured in Lb / Head	24500
+NEW YORK	Milk, Skim, Unsweetened, Condensed, Bulk - Production, Measured in Lb	40978000
+NEW YORK	Milk - Production, Measured in $	2714649000
+NEW YORK	Milk - Production, Measured in Lb	15337000000
+NORTH CAROLINA	Farm Operations - Area Operated, Measured in Acres / Operation	183
+NORTH CAROLINA	Farm Operations - Number of Operations	46000
+NORTH CAROLINA	Farm Operations - Acres Operated	8400000
+NORTH CAROLINA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	370000
+NORTH CAROLINA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	40000
+NORTH CAROLINA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	800000
+NORTH CAROLINA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	46000
+NORTH CAROLINA	Goats, Milk - Inventory ( First of Jan. 2021 )	8500
+NORTH CAROLINA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	28000
+NORTH CAROLINA	Hogs - Inventory ( First of Dec. 2020 )	8800000
+NORTH CAROLINA	Chickens, Broilers - Production, Measured in Head	961300000
+NORTH CAROLINA	Turkeys - Production, Measured in Head	30000000
+NORTH CAROLINA	Milk - Production, Measured in Lb / Head	21829
+NORTH CAROLINA	Milk - Production, Measured in $	168260000
+NORTH CAROLINA	Milk - Production, Measured in Lb	895000000
+NORTH DAKOTA	Farm Operations - Area Operated, Measured in Acres / Operation	1512
+NORTH DAKOTA	Farm Operations - Number of Operations	26000
+NORTH DAKOTA	Farm Operations - Acres Operated	39300000
+NORTH DAKOTA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	975000
+NORTH DAKOTA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	15000
+NORTH DAKOTA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1950000
+NORTH DAKOTA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	49000
+NORTH DAKOTA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	73000
+NORTH DAKOTA	Hogs - Inventory ( First of Dec. 2020 )	143000
+NORTH DAKOTA	Milk - Production, Measured in Lb / Head	21867
+NORTH DAKOTA	Milk - Production, Measured in $	65272000
+NORTH DAKOTA	Milk - Production, Measured in Lb	328000000
+OHIO	Farm Operations - Area Operated, Measured in Acres / Operation	175
+OHIO	Farm Operations - Number of Operations	77800
+OHIO	Farm Operations - Acres Operated	13600000
+OHIO	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	302000
+OHIO	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	258000
+OHIO	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1260000
+OHIO	Cattle, On Feed - Inventory ( First of Jan. 2021 )	150000
+OHIO	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	44000
+OHIO	Goats, Milk - Inventory ( First of Jan. 2021 )	10000
+OHIO	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	126000
+OHIO	Hogs - Inventory ( First of Dec. 2020 )	2650000
+OHIO	Chickens, Broilers - Production, Measured in Head	108200000
+OHIO	Turkeys - Production, Measured in Head	6000000
+OHIO	Milk - Production, Measured in Lb / Head	22118
+OHIO	Milk - Production, Measured in $	1028094000
+OHIO	Milk - Production, Measured in Lb	5618000000
+OKLAHOMA	Farm Operations - Area Operated, Measured in Acres / Operation	445
+OKLAHOMA	Farm Operations - Number of Operations	77300
+OKLAHOMA	Farm Operations - Acres Operated	34400000
+OKLAHOMA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	2189000
+OKLAHOMA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	41000
+OKLAHOMA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	5300000
+OKLAHOMA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	335000
+OKLAHOMA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	79000
+OKLAHOMA	Goats, Milk - Inventory ( First of Jan. 2021 )	7800
+OKLAHOMA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	51000
+OKLAHOMA	Hogs - Inventory ( First of Dec. 2020 )	2080000
+OKLAHOMA	Chickens, Broilers - Production, Measured in Head	204700000
+OKLAHOMA	Milk - Production, Measured in Lb / Head	17452
+OKLAHOMA	Milk - Production, Measured in $	139270000
+OKLAHOMA	Milk - Production, Measured in Lb	733000000
+OREGON	Farm Operations - Area Operated, Measured in Acres / Operation	425
+OREGON	Farm Operations - Number of Operations	37200
+OREGON	Farm Operations - Acres Operated	15800000
+OREGON	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	525000
+OREGON	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	125000
+OREGON	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1250000
+OREGON	Cattle, On Feed - Inventory ( First of Jan. 2021 )	105000
+OREGON	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	28000
+OREGON	Goats, Milk - Inventory ( First of Jan. 2021 )	13500
+OREGON	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	155000
+OREGON	Hogs - Inventory ( First of Dec. 2020 )	9000
+OREGON	Milk - Production, Measured in Lb / Head	21032
+OREGON	Milk - Production, Measured in $	557348000
+OREGON	Milk - Production, Measured in Lb	2629000000
+PENNSYLVANIA	Farm Operations - Area Operated, Measured in Acres / Operation	139
+PENNSYLVANIA	Farm Operations - Number of Operations	52700
+PENNSYLVANIA	Farm Operations - Acres Operated	7300000
+PENNSYLVANIA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	215000
+PENNSYLVANIA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	475000
+PENNSYLVANIA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1430000
+PENNSYLVANIA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	80000
+PENNSYLVANIA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	38000
+PENNSYLVANIA	Goats, Milk - Inventory ( First of Jan. 2021 )	14000
+PENNSYLVANIA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	97000
+PENNSYLVANIA	Hogs - Inventory ( First of Dec. 2020 )	1390000
+PENNSYLVANIA	Chickens, Broilers - Production, Measured in Head	221100000
+PENNSYLVANIA	Turkeys - Production, Measured in Head	6700000
+PENNSYLVANIA	Milk, Dry, Nonfat, Human - Production, Measured in Plants	3
+PENNSYLVANIA	Milk - Production, Measured in Lb / Head	21320
+PENNSYLVANIA	Milk, Dry, Nonfat, Human - Production, Measured in Lb	184283000
+PENNSYLVANIA	Milk - Production, Measured in $	1870232000
+PENNSYLVANIA	Milk - Production, Measured in Lb	10276000000
+RHODE ISLAND	Farm Operations - Area Operated, Measured in Acres / Operation	55
+RHODE ISLAND	Farm Operations - Number of Operations	1100
+RHODE ISLAND	Farm Operations - Acres Operated	60000
+RHODE ISLAND	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	1000
+RHODE ISLAND	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	500
+RHODE ISLAND	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	3500
+RHODE ISLAND	Hogs - Inventory ( First of Dec. 2020 )	1500
+RHODE ISLAND	Milk - Production, Measured in Lb / Head	21800
+RHODE ISLAND	Milk - Production, Measured in $	1908000
+RHODE ISLAND	Milk - Production, Measured in Lb	10900000
+SOUTH CAROLINA	Farm Operations - Area Operated, Measured in Acres / Operation	195
+SOUTH CAROLINA	Farm Operations - Number of Operations	24600
+SOUTH CAROLINA	Farm Operations - Acres Operated	4800000
+SOUTH CAROLINA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	168000
+SOUTH CAROLINA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	10000
+SOUTH CAROLINA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	330000
+SOUTH CAROLINA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	31000
+SOUTH CAROLINA	Goats, Milk - Inventory ( First of Jan. 2021 )	3200
+SOUTH CAROLINA	Hogs - Inventory ( First of Dec. 2020 )	188000
+SOUTH CAROLINA	Chickens, Broilers - Production, Measured in Head	243500000
+SOUTH CAROLINA	Milk - Production, Measured in Lb / Head	18900
+SOUTH CAROLINA	Milk - Production, Measured in $	36477000
+SOUTH CAROLINA	Milk - Production, Measured in Lb	189000000
+SOUTH DAKOTA	Farm Operations - Area Operated, Measured in Acres / Operation	1459
+SOUTH DAKOTA	Farm Operations - Number of Operations	29600
+SOUTH DAKOTA	Farm Operations - Acres Operated	43200000
+SOUTH DAKOTA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	1799000
+SOUTH DAKOTA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	141000
+SOUTH DAKOTA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	4000000
+SOUTH DAKOTA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	460000
+SOUTH DAKOTA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	245000
+SOUTH DAKOTA	Hogs - Inventory ( First of Dec. 2020 )	2020000
+SOUTH DAKOTA	Turkeys - Production, Measured in Head	4500000
+SOUTH DAKOTA	Milk - Production, Measured in Lb / Head	23111
+SOUTH DAKOTA	Milk - Production, Measured in $	642720000
+SOUTH DAKOTA	Milk - Production, Measured in Lb	3120000000
+TENNESSEE	Farm Operations - Area Operated, Measured in Acres / Operation	155
+TENNESSEE	Farm Operations - Number of Operations	69500
+TENNESSEE	Farm Operations - Acres Operated	10800000
+TENNESSEE	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	900000
+TENNESSEE	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	30000
+TENNESSEE	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1790000
+TENNESSEE	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	96000
+TENNESSEE	Goats, Milk - Inventory ( First of Jan. 2021 )	7000
+TENNESSEE	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	53000
+TENNESSEE	Hogs - Inventory ( First of Dec. 2020 )	260000
+TENNESSEE	Chickens, Broilers - Production, Measured in Head	187400000
+TENNESSEE	Milk - Production, Measured in Lb / Head	18067
+TENNESSEE	Milk - Production, Measured in $	101896000
+TENNESSEE	Milk - Production, Measured in Lb	542000000
+TEXAS	Farm Operations - Area Operated, Measured in Acres / Operation	510
+TEXAS	Farm Operations - Number of Operations	247000
+TEXAS	Farm Operations - Acres Operated	126000000
+TEXAS	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	4685000
+TEXAS	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	615000
+TEXAS	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	13100000
+TEXAS	Cattle, On Feed - Inventory ( First of Jan. 2021 )	2890000
+TEXAS	Goats, Angora - Inventory ( First of Jan. 2021 )	61000
+TEXAS	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	740000
+TEXAS	Goats, Milk - Inventory ( First of Jan. 2021 )	26000
+TEXAS	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	730000
+TEXAS	Hogs - Inventory ( First of Dec. 2020 )	1080000
+TEXAS	Chickens, Broilers - Production, Measured in Head	702500000
+TEXAS	Milk - Production, Measured in Lb / Head	24926
+TEXAS	Milk - Production, Measured in $	2758566000
+TEXAS	Milk - Production, Measured in Lb	14831000000
+UTAH	Farm Operations - Area Operated, Measured in Acres / Operation	601
+UTAH	Farm Operations - Number of Operations	17800
+UTAH	Farm Operations - Acres Operated	10700000
+UTAH	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	345000
+UTAH	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	95000
+UTAH	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	800000
+UTAH	Cattle, On Feed - Inventory ( First of Jan. 2021 )	23000
+UTAH	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	285000
+UTAH	Hogs - Inventory ( First of Dec. 2020 )	1000000
+UTAH	Milk - Production, Measured in Lb / Head	23198
+UTAH	Milk - Production, Measured in $	405314000
+UTAH	Milk - Production, Measured in Lb	2227000000
+VERMONT	Farm Operations - Area Operated, Measured in Acres / Operation	176
+VERMONT	Farm Operations - Number of Operations	6800
+VERMONT	Farm Operations - Acres Operated	1200000
+VERMONT	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	14000
+VERMONT	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	120000
+VERMONT	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	245000
+VERMONT	Hogs - Inventory ( First of Dec. 2020 )	4000
+VERMONT	Milk - Production, Measured in Lb / Head	21328
+VERMONT	Milk - Production, Measured in $	476166000
+VERMONT	Milk - Production, Measured in Lb	2602000000
+VIRGINIA	Farm Operations - Area Operated, Measured in Acres / Operation	184
+VIRGINIA	Farm Operations - Number of Operations	42300
+VIRGINIA	Farm Operations - Acres Operated	7800000
+VIRGINIA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	595000
+VIRGINIA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	75000
+VIRGINIA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1390000
+VIRGINIA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	16000
+VIRGINIA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	40000
+VIRGINIA	Goats, Milk - Inventory ( First of Jan. 2021 )	4800
+VIRGINIA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	78000
+VIRGINIA	Hogs - Inventory ( First of Dec. 2020 )	310000
+VIRGINIA	Chickens, Broilers - Production, Measured in Head	276200000
+VIRGINIA	Turkeys - Production, Measured in Head	16000000
+VIRGINIA	Milk - Production, Measured in Lb / Head	20293
+VIRGINIA	Milk - Production, Measured in $	299834000
+VIRGINIA	Milk - Production, Measured in Lb	1522000000
+WASHINGTON	Farm Operations - Area Operated, Measured in Acres / Operation	411
+WASHINGTON	Farm Operations - Number of Operations	35500
+WASHINGTON	Farm Operations - Acres Operated	14600000
+WASHINGTON	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	221000
+WASHINGTON	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	279000
+WASHINGTON	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1140000
+WASHINGTON	Cattle, On Feed - Inventory ( First of Jan. 2021 )	240000
+WASHINGTON	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	22000
+WASHINGTON	Goats, Milk - Inventory ( First of Jan. 2021 )	7300
+WASHINGTON	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	50000
+WASHINGTON	Hogs - Inventory ( First of Dec. 2020 )	17000
+WASHINGTON	Milk - Production, Measured in Lb / Head	24346
+WASHINGTON	Milk - Production, Measured in $	1192975000
+WASHINGTON	Milk - Production, Measured in Lb	6817000000
+WEST VIRGINIA	Farm Operations - Area Operated, Measured in Acres / Operation	154
+WEST VIRGINIA	Farm Operations - Number of Operations	22800
+WEST VIRGINIA	Farm Operations - Acres Operated	3500000
+WEST VIRGINIA	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	190000
+WEST VIRGINIA	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	5000
+WEST VIRGINIA	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	375000
+WEST VIRGINIA	Cattle, On Feed - Inventory ( First of Jan. 2021 )	5000
+WEST VIRGINIA	Goats, Meat & Other - Inventory ( First of Jan. 2021 )	19000
+WEST VIRGINIA	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	30000
+WEST VIRGINIA	Hogs - Inventory ( First of Dec. 2020 )	3000
+WEST VIRGINIA	Chickens, Broilers - Production, Measured in Head	70200000
+WEST VIRGINIA	Turkeys - Production, Measured in Head	3900000
+WEST VIRGINIA	Milk - Production, Measured in Lb / Head	14833
+WEST VIRGINIA	Milk - Production, Measured in $	15575000
+WEST VIRGINIA	Milk - Production, Measured in Lb	89000000
+WISCONSIN	Farm Operations - Area Operated, Measured in Acres / Operation	222
+WISCONSIN	Farm Operations - Number of Operations	64400
+WISCONSIN	Farm Operations - Acres Operated	14300000
+WISCONSIN	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	310000
+WISCONSIN	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	1260000
+WISCONSIN	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	3450000
+WISCONSIN	Cattle, On Feed - Inventory ( First of Jan. 2021 )	250000
+WISCONSIN	Goats, Milk - Inventory ( First of Jan. 2021 )	72000
+WISCONSIN	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	86000
+WISCONSIN	Hogs - Inventory ( First of Dec. 2020 )	400000
+WISCONSIN	Chickens, Broilers - Production, Measured in Head	55000000
+WISCONSIN	Milk - Production, Measured in Lb / Head	24408
+WISCONSIN	Milk - Production, Measured in $	5807970000
+WISCONSIN	Milk - Production, Measured in Lb	30730000000
+WYOMING	Farm Operations - Area Operated, Measured in Acres / Operation	2417
+WYOMING	Farm Operations - Number of Operations	12000
+WYOMING	Farm Operations - Acres Operated	29000000
+WYOMING	Cattle, Cows, Beef - Inventory ( First of Jan. 2021 )	702000
+WYOMING	Cattle, Cows, Milk - Inventory ( First of Jan. 2021 )	8000
+WYOMING	Cattle, Incl Calves - Inventory ( First of Jan. 2021 )	1300000
+WYOMING	Cattle, On Feed - Inventory ( First of Jan. 2021 )	74000
+WYOMING	Sheep, Incl Lambs - Inventory ( First of Jan. 2021 )	340000
+WYOMING	Hogs - Inventory ( First of Dec. 2020 )	95000
+WYOMING	Milk - Production, Measured in Lb / Head	25173
+WYOMING	Milk - Production, Measured in $	31907000
+WYOMING	Milk - Production, Measured in Lb	188800000

@@ -22,7 +22,7 @@ def removeCommas(input):
         else:
             return(input.replace(",",""))
 
-with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results_livestock.txt", "a") as outFile:
+with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results_livestock_full.txt", "a") as outFile:
         outFile.write("state\tfarmLabel\tfarmValue\n")
 
 for state in states:
@@ -42,7 +42,7 @@ for state in states:
     zippedEntries = zip(headings, values)
 
     # open file in append mode (creates if not already existing)
-    with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results_livestock.txt", "a") as outFile:
+    with open("/Users/geoffreyhouse/GitHub/usda-map-ag-stats/USDA_agStats_stateOverviews_scraper_results_livestock_full.txt", "a") as outFile:
         for entry in zippedEntries:
             outFile.write(state + "\t" + entry[0] + "\t" + entry[1] + "\n")
 

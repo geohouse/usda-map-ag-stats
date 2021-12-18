@@ -2,6 +2,8 @@
 import requests
 from bs4 import BeautifulSoup
 
+# This scrapes the crop information from the bottom tables on each page.
+
 listHolder = []
 states = ["ALABAMA", "ALASKA", "ARIZONA", "ARKANSAS", "CALIFORNIA", "COLORADO", \
         "CONNECTICUT", "DELAWARE", "FLORIDA", "GEORGIA", "HAWAII", "IDAHO", "ILLINOIS", \
@@ -14,18 +16,20 @@ states = ["ALABAMA", "ALASKA", "ARIZONA", "ARKANSAS", "CALIFORNIA", "COLORADO", 
 #states = ["NEW MEXICO", "MAINE"]
 URL_base = "https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state="
 
+def removeCommas(input):
+        if input == "":
+            return("0")
+        else:
+            return(input.replace(",",""))
+
+
 for state in states:
     print(state)
     URL_full = URL_base + state
     page = requests.get(URL_full)
     soup = BeautifulSoup(page.content, "html.parser")
 
-    def removeCommas(input):
-        if input == "":
-            return("0")
-        else:
-            return(input.replace(",",""))
-
+    
     for tableRow in soup.find_all("tr", class_="datarow"):
         commodity = tableRow.find_all('td')[0].text
         plantedAPAcres = removeCommas(tableRow.find_all('td')[1].text)
